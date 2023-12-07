@@ -4,9 +4,10 @@ using namespace std;
 
 #define ll long long
 #define pb push_back
-#define ff first        
+#define ff first
 #define ss second
 
+ll N = 1000000000 + 7;
 
 void solve() {
     // your code here
